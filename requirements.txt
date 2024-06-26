@@ -2,3 +2,5 @@ tweepy
 os
 dotenv
 pillow
+webcolors
+time
